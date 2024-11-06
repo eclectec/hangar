@@ -7,6 +7,7 @@ docker compose up -d
 https://localhost:8529
 
 username: root
+
 password: arango
 
 ## Dump Data
