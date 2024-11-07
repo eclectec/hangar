@@ -4,7 +4,7 @@ docker compose up -d
 ```
 
 ## Test
-https://localhost:8529
+http://localhost:8529
 
 username: root
 
